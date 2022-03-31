@@ -1,0 +1,8 @@
+int main(){
+    /*  we are developer */
+
+    cout<<"hello world";
+    return 0;
+    
+}
+

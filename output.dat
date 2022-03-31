@@ -1,0 +1,18 @@
+|IDENTIFIER == int == 1|  
+|IDENTIFIER == main == 1|  
+|OPERATOR == () == 1|  
+|OPERATOR == { == 1|  
+
+
+
+|IDENTIFIER == cout == 4|  
+|OPERATOR == << == 4|  
+|IDENTIFIER == "hello world" == 4|  
+|EOF_TOKEN == ; == 4|  
+
+|IDENTIFIER == return == 5|  
+|NUMBER == 0 == 5|  
+|EOF_TOKEN == ; == 5|  
+
+
+|OPERATOR == } == 7|  
